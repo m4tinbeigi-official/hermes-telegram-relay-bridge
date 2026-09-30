@@ -1,0 +1,19 @@
+{
+  "name": "hermes-telegram-relay-bridge",
+  "version": "1.0.0",
+  "description": "High-performance Telegram Bot API Relay Bridge for Hermes Agent in restricted/filtered networks",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "keywords": [
+    "hermes-agent",
+    "telegram",
+    "bot",
+    "relay",
+    "cloudflare-worker",
+    "proxy"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://devsponsors.github.io">
+    <img src="https://devsponsors.github.io/assets/badges/sponsor.svg" alt="DevSponsors Badge">
+  </a>
+</p>
+
 # Hermes Telegram Relay Bridge 🚀
 
 یک راهکار سبک و پایدار برای متصل کردن **Hermes Agent** به **تلگرام** در سرورهایی که با محدودیت شبکه یا فیلترینگ تلگرام (`api.telegram.org`) مواجه هستند، با استفاده از سیستم رله کلادفلر (Cloudflare Worker Relay).
